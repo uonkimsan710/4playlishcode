@@ -338,7 +338,7 @@ player.find('.sd_nextPage').click(function(){
 player.find('.sd_list').animate({scrollTop:0},10);
 player.find('.sd_list').find('li').eq(0).trigger('click');
 $(document).ready(function(){
-$('script[src^="https://cdn.rawgit.com/uonkimsan710/4playlishcode/4playlist.js/fyvg.js"]').remove();
+$('script[src^="https://cdn.rawgit.com/uonkimsan710/4playlishcode/scriptcode/jj.js"]').remove();
 });
 
 function autocontinue_next(){
